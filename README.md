@@ -22,7 +22,7 @@ NAND gate is also called as universal gate whose output is high when any or all 
 
 Mathematically, the operation is represented as
 
-$$\overline{A\cdotB} = Y$$
+$$\overline{A \cdot B} = Y$$
 
 
 # AND Using NAND
