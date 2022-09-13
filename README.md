@@ -36,16 +36,13 @@ The truth table for two input is shown below in table.
   <img src="../main/Table/Logism_table_NAND.jpg" width="250" height="100"/>
 </p>
 
+Using the NAND gate we can make other logics gate such as OR gate, AND gate, NOT gate, XOR gate etc which are discussed below.
 
 # AND Using NAND
 
 AND gate is a logic gate whose output is high if all of its inputs are high and output is low if all of its inputs are low. Mathematically, the operation for it is represented as
 
     A . B = Y
-Using the universal gate we can make other logics gate such as OR gate, AND gate, NOT gate, XOR gate etc which are discussed below.
-
-
-
 
 
 
