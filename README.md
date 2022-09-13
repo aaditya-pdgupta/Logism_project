@@ -134,3 +134,14 @@ Using De-Morgen"s Theorem, we get:
 
 $$ \overline{A \cdot A} = \bar{A} = Y$$
 
+which is required mathematical expression for NOT gate.
+
+## Operation
+* When A is high, Y is low.
+* When A is low, Y is high.
+
+The truth table for the input is shown below in table.
+
+<p align="center">
+  <img src="../main/Table/Logism_table_NOT.jpg" width="250" height="100"/>
+</p>
