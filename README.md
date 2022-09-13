@@ -158,7 +158,7 @@ The electronic symbol of XOR Using NAND gate is shown figure below.
   <img src="../main/Figures/XOR_Gate_2.jpg" width="350" height="250"/>
 </p>
 
-In above figure we havew 3 NAND gates. We first compliment the inputs A and B for gates 1, 2 & 3. When we perform the NAND operation for gate 1 we get output as $\overline{AB}$ while for 2 and 3 we get 
+In above figure we havew 3 NAND gates. We first compliment the inputs A and B for gates 1, 2 & 3. When we perform the NAND operation for gate 1 we get output as $\overline{AB}$ while for 2 and 3 we get we get output $\overline{A \cdot {\overline{AB}}$ and  $\overline{B \cdot {\overline{AB}}$
 
 
 
