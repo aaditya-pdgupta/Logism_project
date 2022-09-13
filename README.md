@@ -120,3 +120,4 @@ NOT gate is a single input and single output gatewhose output is high if input i
 
 $$\bar{A} = Y$$
 
+The electronic symbol of NOT Using NAND gate is shown figure below.
