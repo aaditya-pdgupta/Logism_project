@@ -123,5 +123,5 @@ $$\bar{A} = Y$$
 The electronic symbol of NOT Using NAND gate is shown figure below.
 
 <p align="center">
-  <img src="../main/Figures/NOT_Gate.jpg" width="250" height="100"/>
+  <img src="../main/Figures/NOT_Gate.jpg" width="250" height="200"/>
 </p>
