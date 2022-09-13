@@ -84,3 +84,9 @@ OR gate is a logic gate whose output is '1' state or high if any or all the inpu
 
 $$A + B = Y$$ 
 
+The electronic symbol of OR Using NAND gate is shown figure below.
+
+<p align="center">
+  <img src="../main/Figures/OR_Gate.jpg" width="250" height="100"/>
+</p>
+
