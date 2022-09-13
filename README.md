@@ -90,3 +90,4 @@ The electronic symbol of OR Using NAND gate is shown figure below.
   <img src="../main/Figures/OR_Gate.jpg" width="300" height="150"/>
 </p>
 
+We have three NAND gate in above figure. We first compliment the inputs A and B for first two gates. Then we perform the NAND operations on these completed inputs. We get  $\bar{A}$ and $\bar{B}$.
