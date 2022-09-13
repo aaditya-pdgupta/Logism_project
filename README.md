@@ -94,4 +94,8 @@ We have three NAND gate in above figure. We first compliment the inputs A and B 
 
 Again if we use both output use as input for the next NAND gate operation we get:
 
-$$\overline{\bar{A} \cdot \bar{B}}$$
+$$\overline{\bar{A} \cdot \bar{B}} = Y$$
+
+Using De-Morgans's law we can say that
+
+$$\overline{\bar{A} \cdot \bar{B}} = \bar{\bar{A} \bar{B}= Y$$
