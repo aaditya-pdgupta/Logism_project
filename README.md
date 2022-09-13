@@ -27,7 +27,7 @@ The electronic symbol symbol for a NAND gate is shown in figure below.
 
 
 ## Operation
-* When A is low and B is low, Y is high.
+* When A is low and B is also low, Y is high.
 * When A is low and B is high, Y is high.
 * When A is high and B is low, Y is high.
 * When A is high, and B is also high, Y is low. 
@@ -67,7 +67,7 @@ $$\overline{\overline{A \cdot B}} = A \cdot B = Y$$
 which is required mathematical expression for AND gate.
 
 ## Operation
-* When A is low and B is also is low, Y is low.
+* When A is low and B is also low, Y is low.
 * When A is low and B is high, Y is low.
 * When A is high and B is low, Y is low.
 * When A is high, and B is also high, Y is high. 
@@ -103,7 +103,7 @@ $$\overline{\bar{A} \cdot \bar{B}} = {\bar{\bar{A}}} + {\bar{\bar{B}}} = A + B =
 which is required mathematical expression for OR gate.
 
 ## Operation
-* When A is low and B is also is low, Y is low.
+* When A is low and B is also low, Y is low.
 * When A is low and B is high, Y is high.
 * When A is high and B is low, Y is high.
 * When A is high, and B is also high, Y is high.
