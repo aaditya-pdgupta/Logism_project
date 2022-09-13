@@ -113,3 +113,5 @@ The truth table for two input is shown below in table.
 <p align="center">
   <img src="../main/Table/Logism_table_OR.jpg" width="250" height="100"/>
 </p>
+
+# NOT Using NAND
