@@ -116,4 +116,7 @@ The truth table for two input is shown below in table.
 
 # NOT Using NAND
 
-NOT gate is a single input and single output gatewhose output is high if input in low and vice versa.
+NOT gate is a single input and single output gatewhose output is high if input in low and vice versa.  Mathematically, the operation for it is represented as
+
+$$\bar{A} = Y$$
+
