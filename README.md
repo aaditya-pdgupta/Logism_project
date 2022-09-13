@@ -167,6 +167,8 @@ $$or, \overline{\overline{A \cdot {\overline{AB}}}} + , \overline{\overline{B \c
 
 $$or, A \cdot \overline{AB} + B \cdot \overline{AB} = Y$$
 
+$$or, A (\overline{A} + \overline{B}) +  B (\overline{A} + \overline{B}) = Y$$
+
 
 
 
