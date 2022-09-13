@@ -169,6 +169,6 @@ $$or, A \cdot \overline{AB} + B \cdot \overline{AB} = Y$$
 
 $$or, A (\overline{A} + \overline{B}) +  B (\overline{A} + \overline{B}) = Y$$
 
-
+$$or, (A +B) (\overline{A} + \overline{B} = Y$$
 
 
