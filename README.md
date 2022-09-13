@@ -58,7 +58,7 @@ $$\overline{A \cdot B} = Y$$
 
 And if we compliment the same output as input given by NAND operation for NOT opertion we get:
 
-$$\overline\overline{A \cdot B}$$
+$$\overline{\overline{A \cdot B}}$$
 
 
 
