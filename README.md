@@ -87,6 +87,6 @@ $$A + B = Y$$
 The electronic symbol of OR Using NAND gate is shown figure below.
 
 <p align="center">
-  <img src="../main/Figures/OR_Gate.jpg" width="350" height="100"/>
+  <img src="../main/Figures/OR_Gate.jpg" width="300" height="150"/>
 </p>
 
