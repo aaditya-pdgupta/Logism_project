@@ -98,4 +98,4 @@ $$\overline{\bar{A} \cdot \bar{B}} = Y$$
 
 Using De-Morgans's law we can say that
 
-$$\overline{\bar{A} \cdot \bar{B}} = {\bar{\bar{A}}} {\bar{\bar{B}}} = Y$$
+$$\overline{\bar{A} \cdot \bar{B}} = {\bar{\bar{A}}} + {\bar{\bar{B}}} = Y$$
