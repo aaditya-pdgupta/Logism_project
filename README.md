@@ -10,7 +10,15 @@ There are different types of logic gates:
 * NAND gate
 * NOR gate
 
-Among above gates, NAND & NOR gates are the most commonly encountered universal gate in logics gate. A universal gate is such a gate that we can implement any BOOLean function, no matter how complex, using a circuit that consists of only that particular gate. Using the universal gate we can make other logics gate such as OR gate, AND gate, NOT gate, XOR gate etc which are discussed below.
+Among above gates, NAND & NOR gates are the most commonly encountered universal gate in logics gate. A universal gate is such a gate that we can implement any Boolean function, no matter how complex, using a circuit that consists of only that particular gate. 
+
+# NAND gate
+
+NAND gate is also called as universal gate whose output is high when any or all of the inputs are low. It is, in fact, a NOT AND gate. That is, a combination of an AND gate and a NOT gate as shown in fgure below.
+
+<p align="center">
+  <img src="../main/Figures/NAND_Gate.jpg" width="250" height="100"/>
+</p>
 
 
 # AND Using NAND
@@ -18,7 +26,7 @@ Among above gates, NAND & NOR gates are the most commonly encountered universal 
 AND gate is a logic gate whose output is high if all of its inputs are high and output is low if all of its inputs are low. Mathematically, the operation for it is represented as
 
     A . B = Y
-
+Using the universal gate we can make other logics gate such as OR gate, AND gate, NOT gate, XOR gate etc which are discussed below.
 
 
 
