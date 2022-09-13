@@ -14,11 +14,15 @@ Among above gates, NAND & NOR gates are the most commonly encountered universal 
 
 # NAND gate
 
-NAND gate is also called as universal gate whose output is high when any or all of the inputs are low. It is, in fact, a NOT AND gate. That is, a combination of an AND gate and a NOT gate as shown in fgure below.
+NAND gate is also called as universal gate whose output is high when any or all of the inputs are low. It is, in fact, a NOT AND gate. That is, a combination of an AND gate and a NOT gate. The electronic symbol symbol for a NAND gate is shown in figure below.
 
 <p align="center">
   <img src="../main/Figures/NAND_gate.jpg" width="250" height="100"/>
 </p>
+
+Mathematically, the operation is represented as
+
+$$\bar{A \cdot B} = Y$$
 
 
 # AND Using NAND
