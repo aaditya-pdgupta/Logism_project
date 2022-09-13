@@ -99,3 +99,17 @@ $$\overline{\bar{A} \cdot \bar{B}} = Y$$
 Using De-Morgans's law we can say that
 
 $$\overline{\bar{A} \cdot \bar{B}} = {\bar{\bar{A}}} + {\bar{\bar{B}}} = A + B = Y$$
+
+which is required mathematical expression for OR gate.
+
+## Operation
+* When A is low and B is also is low, Y is low.
+* When A is low and B is high, Y is low.
+* When A is high and B is low, Y is low.
+* When A is high, and B is also high, Y is high.
+
+The truth table for two input is shown below in table.
+
+<p align="center">
+  <img src="../main/Table/Logism_table_OR.jpg" width="250" height="100"/>
+</p>
