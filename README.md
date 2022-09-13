@@ -125,3 +125,5 @@ The electronic symbol of NOT Using NAND gate is shown figure below.
 <p align="center">
   <img src="../main/Figures/NOT_Gate.jpg" width="250" height="100"/>
 </p>
+
+We know that a NOT gate has only one input and gives the output as the complement of the input . To realize the NOT gate using NAND gate, we need only one NAND gate which is also shown un figure above.
