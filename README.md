@@ -128,5 +128,9 @@ The electronic symbol of NOT Using NAND gate is shown figure below.
 
 We know that a NOT gate has only one input and gives the output as the complement of the input . To realize the NOT gate using NAND gate, we need only one NAND gate which is also shown in the figure above. We first compliment the inputs A and perform the perform the NAND operations on complimented input.We get 
 
-$$ \overline{A \cdot B}$$
+$$ \overline{A \cdot A} = Y$$
+
+Using De-Morgen"s Theorem, we get:
+
+$$ \overline{A \cdot A} = \overline{A} = Y$$
 
