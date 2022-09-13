@@ -28,8 +28,8 @@ The electronic symbol symbol for a NAND gate is shown in figure below.
 
 ## Operation
 * When A is low and B is low, Y is high.
-* When A is low and B is high, Y is high.
 * When A is high and B is low, Y is high.
+* When A is low and B is high, Y is high.
 * When A is high, and B is also high, Y is low. 
 
 The truth table for two input is shown below in table.
@@ -68,8 +68,8 @@ which is required mathematical expression for AND gate.
 
 ## Operation
 * When A is low and B is also is low, Y is low.
-* When A is high and B is low, Y is low.
 * When A is low and B is high, Y is low.
+* When A is high and B is low, Y is low.
 * When A is high, and B is also high, Y is high. 
 
 The truth table for two input is shown below in table.
