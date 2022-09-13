@@ -62,7 +62,7 @@ $$\overline{\overline{A \cdot B}} = Y$$
 
 Using De-Morgans's law we can say that
 
-$$\overline{\overline{A \cdot B}} = Y$$
+$$\overline{\overline{A \cdot B}} = A \cdot B = Y$$
 
 
 
