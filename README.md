@@ -177,7 +177,7 @@ which is required mathematical operation for XOR gate.
 * When A is low and B is also low, Y is low.
 * When A is low and B is high, Y is high.
 * When A is high and B is low, Y is high.
-* When A is high, and B is also high, Y is high.
+* When A is high, and B is also high, Y is also low.
 
 The truth table for two input is shown below in table.
 
