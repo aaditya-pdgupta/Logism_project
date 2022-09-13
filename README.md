@@ -46,7 +46,7 @@ AND gate is a logic gate whose output is high if all of its inputs are high and 
 
 $$A \cdot B = Y$$
 
-The electronic symbol of AND Using NAND gatet is shown figure.
+The electronic symbol of AND Using NAND gate is shown figure below.
 
 <p align="center">
   <img src="../main/Figures/AND_Gate.jpg" width="250" height="100"/>
