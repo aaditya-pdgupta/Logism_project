@@ -33,7 +33,7 @@ $$\overline{A \cdot B} = Y$$
 The truth table for two input is shown below in table.
 
 <p align="center">
-  <img src="../main/Table/NAND_Gate.jpg" width="250" height="100"/>
+  <img src="../main/Table/Logism_table_NAND.jpg" width="250" height="100"/>
 </p>
 
 
