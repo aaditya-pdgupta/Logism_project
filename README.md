@@ -147,3 +147,17 @@ The truth table for the input is shown below in table.
 </p>
 
 # XOR Using NAND
+
+XOR gate is a digital logic gate that gives a true output when the number of true input is odd.  Mathematically, the operation for it is represented as
+
+$$ (A + B) (\overline{A} + \overline{B} = Y$$
+
+
+
+
+
+
+
+
+
+
