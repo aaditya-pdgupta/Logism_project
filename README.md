@@ -52,8 +52,9 @@ The electronic symbol of AND Using NAND gate is shown figure below.
   <img src="../main/Figures/AND_Gate.jpg" width="250" height="100"/>
 </p>
 
-The figure above is quite straightforward. Here, we first compliment the inputs A and B. Then we perform the NAND operation on these complemented inputs we get ($\overline{A \cdot B}$)
+The figure above is quite straightforward. Here, we first compliment the inputs A and B. Then we perform the NAND operation on these complemented inputs we get:
 
+$$\overline{A \cdot B} = Y$$
 
 
 
