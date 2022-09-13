@@ -115,3 +115,5 @@ The truth table for two input is shown below in table.
 </p>
 
 # NOT Using NAND
+
+NOT gate is a single input and single output gatewhose output is high if input in low and vice versa.
