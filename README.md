@@ -145,3 +145,5 @@ The truth table for the input is shown below in table.
 <p align="center">
   <img src="../main/Table/Logism_table_NOT.jpg" width="250" height="100"/>
 </p>
+
+# XOR Using NAND
