@@ -132,5 +132,5 @@ $$ \overline{A \cdot A} = Y$$
 
 Using De-Morgen"s Theorem, we get:
 
-$$ \overline{A \cdot A} = \overline{A} = Y$$
+$$ \overline{A \cdot A} = \bar{A} = Y$$
 
