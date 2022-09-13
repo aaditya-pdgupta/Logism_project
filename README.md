@@ -90,7 +90,7 @@ The electronic symbol of OR Using NAND gate is shown figure below.
   <img src="../main/Figures/OR_Gate.jpg" width="300" height="150"/>
 </p>
 
-We have three NAND gate in above figure. We first compliment the inputs A and B for first two gates. Then we perform the NAND operations on these completed inputs. We get  $\bar{A}$ and $\bar{B}$ as a output of both NAND gates.
+We have three NAND gate in above figure. We first compliment the inputs A and B for first two gates. Then we perform the NAND operations on these complimented inputs. We get  $\bar{A}$ and $\bar{B}$ as a output of both NAND gates.
 
 Again if we use both output use as input for the next NAND gate operation we get:
 
@@ -126,4 +126,7 @@ The electronic symbol of NOT Using NAND gate is shown figure below.
   <img src="../main/Figures/NOT_Gate.jpg" width="250" height="100"/>
 </p>
 
-We know that a NOT gate has only one input and gives the output as the complement of the input . To realize the NOT gate using NAND gate, we need only one NAND gate which is also shown un figure above.
+We know that a NOT gate has only one input and gives the output as the complement of the input . To realize the NOT gate using NAND gate, we need only one NAND gate which is also shown in the figure above. We first compliment the inputs A and perform the perform the NAND operations on complimented input.We get 
+
+$$ \overline{A \cdot B}$$
+
