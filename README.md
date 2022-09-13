@@ -24,6 +24,12 @@ Mathematically, the operation is represented as
 
 $$\overline{A \cdot B} = Y$$
 
+## Operation
+* When A is low and B is low, Y is high.
+* When A is low and B is high, Y is high.
+* When A is high and B is low, Y is high.
+* When A is high, and B is also high, Y is low. 
+
 
 # AND Using NAND
 
