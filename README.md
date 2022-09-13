@@ -7,6 +7,7 @@ There are different types of logic gates:
 * AND gate
 * NOT gate
 * XOR gate
+* NAND gate
 
 
 
