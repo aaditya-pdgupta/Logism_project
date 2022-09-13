@@ -30,6 +30,12 @@ $$\overline{A \cdot B} = Y$$
 * When A is high and B is low, Y is high.
 * When A is high, and B is also high, Y is low. 
 
+The truth table for two input is shown below in table.
+
+<p align="center">
+  <img src="../main/Table/NAND_Gate.jpg" width="250" height="100"/>
+</p>
+
 
 # AND Using NAND
 
