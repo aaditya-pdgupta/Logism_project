@@ -78,7 +78,9 @@ The truth table for two input is shown below in table.
   <img src="../main/Table/Logism_table_AND.jpg" width="250" height="100"/>
 </p>
 
+# OR Using NAND
 
+OR gate is a logic gate whose output is '1' state or high if any or all the inputs are '1' state or high. Mathematically, the operation for it is represented as
 
-
+$$ 
 
