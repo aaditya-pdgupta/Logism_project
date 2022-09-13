@@ -164,6 +164,7 @@ $$\overline{\overline{A \cdot {\overline{AB}}} \cdot \overline{B \cdot {\overlin
 Using De-Morgen"s Theorem, we get:
 
 $$or, \overline{\overline{A \cdot {\overline{AB}}}} + , \overline{\overline{B \cdot {\overline{AB}}}} = Y$$
+$$or, A \cdot \overline{AB} + B \cdot \overline{AB} = Y$$
 
 
 
