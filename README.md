@@ -64,7 +64,7 @@ Using De-Morgans's law we can say that
 
 $$\overline{\overline{A \cdot B}} = A \cdot B = Y$$ 
 
-which is required mathematical expression for AND gate.
+which is required mathematical operation for AND gate.
 
 ## Operation
 * When A is low and B is also low, Y is low.
@@ -100,7 +100,7 @@ Using De-Morgans's law we can say that
 
 $$\overline{\bar{A} \cdot \bar{B}} = {\bar{\bar{A}}} + {\bar{\bar{B}}} = A + B = Y$$
 
-which is required mathematical expression for OR gate.
+which is required mathematical operation for OR gate.
 
 ## Operation
 * When A is low and B is also low, Y is low.
@@ -134,7 +134,7 @@ Using De-Morgen"s Theorem, we get:
 
 $$ \overline{A \cdot A} = \bar{A} = Y$$
 
-which is required mathematical expression for NOT gate.
+which is required mathematical operation for NOT gate.
 
 ## Operation
 * When A is high, Y is low.
@@ -170,5 +170,19 @@ $$or, A \cdot \overline{AB} + B \cdot \overline{AB} = Y$$
 $$or, A (\overline{A} + \overline{B}) +  B (\overline{A} + \overline{B}) = Y$$
 
 $$or, (A +B) (\overline{A} + \overline{B}) = Y$$
+
+which is required mathematical operation for XOR gate.
+
+## Operation
+* When A is low and B is also low, Y is low.
+* When A is low and B is high, Y is high.
+* When A is high and B is low, Y is high.
+* When A is high, and B is also high, Y is high.
+
+The truth table for two input is shown below in table.
+
+<p align="center">
+  <img src="../main/Table/Logism_table_XOR.jpg" width="250" height="100"/>
+</p>
 
 
