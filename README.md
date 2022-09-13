@@ -16,6 +16,7 @@ Among above gates, NAND & NOR gates are the most commonly encountered universal 
 # AND Using NAND
 
 AND gate is a logic gate whose output is high if all of its inputs are high and output is low if all of its inputs are low. Mathematically, the operation for it is represented as
+
     A . B = Y
 
 
