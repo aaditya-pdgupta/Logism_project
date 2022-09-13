@@ -155,7 +155,7 @@ $$ (A + B) (\overline{A} + \overline{B}) = Y$$
 The electronic symbol of XOR Using NAND gate is shown figure below.
 
 <p align="center">
-  <img src="../main/Figures/XOR_Gate_2.jpg" width="250" height="100"/>
+  <img src="../main/Figures/XOR_Gate_2.jpg" width="250" height="200"/>
 </p>
 
 
