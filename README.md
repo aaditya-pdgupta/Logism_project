@@ -54,11 +54,16 @@ The electronic symbol of AND Using NAND gate is shown figure below.
 
 The figure above is quite straightforward. Here, we first compliment the inputs A and B. Then we perform the NAND operation on these complemented inputs we get:
 
-$$\overline{A \cdot B} = Y$$
+$$\overline{A \cdot B}$$
 
 And if we compliment the same output as input given by NAND operation for NOT opertion we get:
 
-$$\overline{\overline{A \cdot B}}$$
+$$\overline{\overline{A \cdot B}} = Y$$
+
+Using De-Morgans's law we can say that
+
+$$\overline{\overline{A \cdot B}} = Y$$
+
 
 
 
