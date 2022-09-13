@@ -42,7 +42,7 @@ Using the NAND gate we can make other logics gate such as OR gate, AND gate, NOT
 
 AND gate is a logic gate whose output is high if all of its inputs are high and output is low if all of its inputs are low. Mathematically, the operation for it is represented as
 
-    A . B = Y
+    $$A \cdot B = Y$$
 
 
 
